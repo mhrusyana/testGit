@@ -1,5 +1,7 @@
 <html>
   <?php
-    echo "meong meong";
+    echo "meong meong\n";
+    $x=kucing;
+    echo "itu suara".$;
   ?>
 </html>
